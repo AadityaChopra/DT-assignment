@@ -3,3 +3,4 @@
   Implement User Registration and Authentication
   Develop Frontend Components
   Integrated mapping and navigation APIs to display ride information and calculate routes.
+  Prepared the app for deployment to app stores, including documentation and assets.
